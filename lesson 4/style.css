@@ -1,0 +1,23 @@
+.paragraph {
+    font-size: 24px;
+    color: #2f0606;
+}
+.list_hw6 {
+    font-size: 22px;
+    color: #0707b4;
+}
+.list_hw7 {
+    font-size: 22px;
+    color: #2081da;
+}
+.list_hw8 {
+    font-size: 24px;
+    color: #830404;
+}
+.users {
+    padding: 20px;
+    border: 2px solid #b00674;
+    width: 300px;
+    text-align: center;
+    margin-top: 15px;
+}
