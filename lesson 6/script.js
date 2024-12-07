@@ -345,5 +345,3 @@ let isModulesDocker = coursesArray.filter(function (course) {
 });
 
 console.log(isModulesDocker);
-
-
