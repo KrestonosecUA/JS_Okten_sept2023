@@ -1,0 +1,18 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    row-gap: 5px;
+    border: 2px blue solid;
+}
+.wrapper {
+    width: 300px;
+    padding: 10px;
+}
+.flex {
+    display: flex;
+    justify-content: space-between;
+}
+table, td {
+    margin-top: 10px;
+    border: black solid 2px;
+}

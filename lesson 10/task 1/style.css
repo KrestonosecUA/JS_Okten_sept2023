@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#text {
+    height: 50px;
+    width: 50%;
+    background-color: #a1d5ea;
+    border: 3px solid #240a41;
+    color: #0b0b81;
+    font-size: 22px;
+    text-align: center;
+}
+#hideButton {
+    margin-top: 30px;
+    border: 3px solid #0a491d;
+    background-color: #a6e38e;
+    color: #083315;
+    border-radius: 5px;
+    padding: 10px 30px;
+}
