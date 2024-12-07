@@ -1,0 +1,83 @@
+.item {
+    background: #a9a9e8;
+    width: 30%;
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-bottom: 10px;
+    border: 3px solid #05056c;
+}
+.heading {
+    color: #3a0505;
+    margin: 0 0 20px 0;
+}
+.description {
+    font-size: 20px;
+    margin: 0;
+}
+.simpsons-block {
+    background-color: #eae896;
+    border: 2px solid #0b0b81;
+    align-items: center;
+    text-align: center;
+}
+.simpsons-block-header, .simpsons-item-name {
+    color: #03057c;
+}
+.simpsons-items {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.simpsons-item {
+    border: 2px solid #03057c;
+    background-color: #7fc5e5;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    width: 48%;
+    margin-bottom: 20px;
+}
+.simpsons-item-img {
+    width: 160px;
+}
+.simpsons-item-info {
+    align-items: center;
+    text-align: center;
+}
+.simpsons-item-age {
+    font-size: 20px;
+}
+.simpsons-item-text {
+    font-size: 18px;
+}
+
+.courses-items {
+    margin-top: 20px;
+    background-color: #b0b0b2;
+    border: 2px solid black;
+}
+.course-item {
+    border: 2px solid #0b0b81;
+    margin: 10px;
+    background-color: #eaeaec;
+    text-align: center;
+}
+.course-title {
+    color: #0b0b81;
+}
+.durations {
+    display: flex;
+    justify-content: space-around;
+}
+.month-duration, .hour-duration {
+    font-size: 22px;
+}
+.modules {
+    border: 1px solid grey;
+    text-align: left;
+}
+.modules-lists {
+    font-size: 20px;
+}
